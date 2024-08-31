@@ -1,3 +1,10 @@
+*{
+      box-sizing:border-box;
+      padding:0;
+      margin:o;
+}
+
+
 h1{
       color:purple;
 }
@@ -7,5 +14,4 @@ h1{
       width:500px;
       height:250px;
       box-shadow:0px 0px 15px black;
-      
 }
